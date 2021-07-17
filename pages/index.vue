@@ -6,7 +6,7 @@
     <div class="section tribute">
       <h1 class="title">In Loving Memory</h1>
       <img height="292" src="~/assets/frontimage.jpg" alt="In loving memory" />
-      <div class="subtitle"><div class="name">{{ $config.name }}</div>{{ $config.dates }}</div>
+      <div class="subtitle"><div class="name">{{ $config.name }}<br/>{{ $config.name_zh }}</div>{{ $config.dates }}</div>
     </div>
   </div>
 </template>

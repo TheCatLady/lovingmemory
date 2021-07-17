@@ -1,9 +1,11 @@
-const name = 'Janet Doe'
-const dates = 'July 29th 1958 - Jan 4th 2021'
+const name = 'Chin-Yu Lin'
+const name_zh = '林錦玉'
+const dates = 'November 23, 1955 – July 15, 2021'
 
 export default {
   publicRuntimeConfig: {
     name: name,
+    name_zh: name_zh,
     dates: dates
   },
   // Target (https://go.nuxtjs.dev/config-target)
