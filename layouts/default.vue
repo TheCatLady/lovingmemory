@@ -8,7 +8,6 @@
 $highlight: #f41b8e;
 $highlightmuted: #f41b8ed9;
 $background: #2b3143;
-
 html {
   font-family: 'Lato', sans-serif;
   font-size: 16px;
@@ -19,14 +18,12 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
-
 *,
 *::before,
 *::after {
   box-sizing: border-box;
   margin: 0;
 }
-
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -117,7 +114,6 @@ html {
       padding: 0;
     }
   }
-
   &.tribute {
     background: $background;
     justify-content: space-evenly;
@@ -143,7 +139,6 @@ html {
     justify-content: normal;
     overflow: auto;
     height: 100vh;
-
     p {
       margin: 10px 0;
       font-weight: 300;
@@ -217,7 +212,6 @@ ul {
   margin-left: 15px;
   border-radius: 4px;
 }
-
 .menu {
   margin-left: 4px;
   margin-right: 4px;
@@ -228,6 +222,7 @@ ul {
 }
 .name {
   font-size: 40px;
+  line-height: 1;
   color: #fff;
   font-weight: 300;
 }
@@ -235,7 +230,7 @@ ul {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 48px;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
@@ -245,7 +240,6 @@ ul {
     margin: 30px 0;
   }
 }
-
 .subtitle {
   font-weight: 300;
   font-size: 14px;
@@ -255,7 +249,6 @@ ul {
     margin: 25px 0;
   }
 }
-
 .svg-inline--fa {
     display: inline-block;
     font-size: inherit;
@@ -280,7 +273,6 @@ ul {
 .svg-inline--fa.fa-w-8 {
     width: .5em;
 }
-
 .svg-inline--fa.fa-fw {
     width: 1.25em;
 }
