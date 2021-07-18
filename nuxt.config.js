@@ -18,7 +18,7 @@ export default {
     },
     get title() {
       delete this.title
-      return this.title =  'In loving memory of ' + name
+      return this.title =  'In loving memory of ' + name + ' 緬懷' + name_zh
     },
     meta: [
       { charset: 'utf-8' },
