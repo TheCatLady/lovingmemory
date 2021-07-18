@@ -3,7 +3,7 @@
     <div class="section links">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details" style="overflow-x: hidden; overflow-y: visible;">
       <h1 class="title">Gallery 相片集錦</h1>
       <CoolLightBox 
         :items="images" 
