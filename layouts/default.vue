@@ -226,7 +226,7 @@ ul {
   color: #fff;
   font-weight: 300;
   @media screen and (max-width: 800px) {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 .title {
@@ -234,6 +234,7 @@ ul {
   display: block;
   font-weight: 300;
   font-size: 50px;
+  line-height: 1.375;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
