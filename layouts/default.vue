@@ -221,23 +221,27 @@ ul {
   }
 }
 .name {
-  font-size: 32px;
+  font-size: 40px;
   line-height: 1;
   margin: 0 0 14px;
   color: #fff;
   font-weight: 300;
+  @media screen and (max-width: 800px) {
+    font-size: 32px;
+  }
 }
 .title {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 50px;
+  line-height: 1;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
   color: #fff;
   @media screen and (max-width: 800px) {
-    font-size: 40px;
+    font-size: 36px;
     margin: 30px 0;
   }
 }
