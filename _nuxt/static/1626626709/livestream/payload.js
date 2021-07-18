@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/livestream", {data:[{}],fetch:[],mutations:void 0});
