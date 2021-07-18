@@ -222,8 +222,7 @@ ul {
 }
 .name {
   font-size: 40px;
-  line-height: 1;
-  margin: 0 0 14px;
+  margin: 0 0 4px;
   color: #fff;
   font-weight: 300;
   @media screen and (max-width: 800px) {
@@ -235,7 +234,6 @@ ul {
   display: block;
   font-weight: 300;
   font-size: 50px;
-  line-height: 1;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
