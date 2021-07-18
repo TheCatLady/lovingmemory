@@ -219,8 +219,8 @@ ul {
 }
 
 .menu {
-  //display: flex;
-  //flex-direction: column;
+  margin-left: 4px;
+  margin-right: 4px;
   small {
     color: #aeafb3;
     font-weight: 400;
