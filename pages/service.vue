@@ -26,7 +26,7 @@
       </ul>
       <h2>Cremation 火化儀式 <span>2:00pm</span><span>台灣時間七月二十八日清晨兩點</span></h2>
       <ul class="fa-ul">
-        <ListItem><em>Simplicity Cremation & Funeral Services</em> <a href="https://goo.gl/maps/HmDeRFsDQjTnv6qx9">244 8th Avenue NW, Glen Burnie, MD 21061</a></ListItem>
+        <ListItem><em>Patapsco Crematory</em> <a href="https://goo.gl/maps/HmDeRFsDQjTnv6qx9">244 8th Avenue NW, Glen Burnie, MD 21061</a></ListItem>
       </ul>
     </div>
   </div>
