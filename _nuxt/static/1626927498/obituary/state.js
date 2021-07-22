@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1626927498",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{name:"Chin-Yu Lin",name_zh:"林錦玉",dates:"November 23, 1955 – July 15, 2021"}}}("\u002Fobituary"));
