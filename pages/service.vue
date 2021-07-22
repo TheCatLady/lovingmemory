@@ -21,6 +21,7 @@
         <ListItem>Eulogy<br/>生平</ListItem>
         <ListItem>Musical Interlude: Love Theme from The Godfather performed by Peggy Houng on harp<br/>序曲：「教父」電影主題曲 洪佩真豎琴演奏</ListItem>
         <ListItem>Acknowledgements<br/>致謝</ListItem>
+        <ListItem>Announcements<br/>發布</ListItem>
         <ListItem>Recessional with Musical Postlude: Nat King Cole - The Very Thought of You<br/>曲終：納特·金·科爾－思念</ListItem>
       </ul>
       <h2>Crematorium 焚化場 <span>2:00pm</span><span>台灣時間七月二十八日清晨兩點</span></h2>
