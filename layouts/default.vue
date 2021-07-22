@@ -166,6 +166,7 @@ html {
       margin: 40px 0 5px;
       align-items: center;
       display: flex;
+      flex-wrap: wrap;
       span {
         background: $highlightmuted;
         padding: 3px 7px;
