@@ -14,12 +14,12 @@
       <h2>Service 追思儀式 <span>12:00pm</span><span>台灣時間七月二十八日清晨零時</span></h2>
       <ul class="fa-ul">
         <ListItem><em>Hines-Rinaldi Funeral Home</em> <a href="https://goo.gl/maps/8hS39fCwqiGcxqRz8">11800 New Hampshire Avenue, Silver Spring, MD 20904</a></ListItem>
-        <ListItem>Musical Prelude: Wang Chun Feng ("Spring Breeze") performed by Peggy Houng on harp<br/>前奏：望春風 洪佩真豎琴演奏</ListItem>
+        <ListItem>Musical Prelude: Wang Chun Feng ("Spring Breeze") performed by Peggy Houng on harp<br/>前奏：望春風 洪珮真豎琴演奏</ListItem>
         <ListItem>Welcome<br/>歡迎</ListItem>
-        <ListItem>Tributes: Huo-Shu Houng, Doris Houng, Peggy Houng<br/>獻言：洪火樹、洪瑩真、洪佩真</ListItem>
-        <ListItem>Musical Interlude: Qing Fei De Yi ("Uncontrollable Feeling") performed by Peggy Houng on harp<br/>序曲：情非得已 洪佩真豎琴演奏</ListItem>
+        <ListItem>Tributes: Huo-Shu Houng, Doris Houng, Peggy Houng<br/>獻言：洪火樹、洪瑩真、洪珮真</ListItem>
+        <ListItem>Musical Interlude: Qing Fei De Yi ("Uncontrollable Feeling") performed by Peggy Houng on harp<br/>序曲：情非得已 洪珮真豎琴演奏</ListItem>
         <ListItem>Eulogy<br/>生平</ListItem>
-        <ListItem>Musical Interlude: Love Theme from The Godfather performed by Peggy Houng on harp<br/>序曲：「教父」電影主題曲 洪佩真豎琴演奏</ListItem>
+        <ListItem>Musical Interlude: Love Theme from The Godfather performed by Peggy Houng on harp<br/>序曲：「教父」電影主題曲 洪珮真豎琴演奏</ListItem>
         <ListItem>Acknowledgements<br/>致謝</ListItem>
         <ListItem>Announcements<br/>發佈</ListItem>
         <ListItem>Recessional with Musical Postlude: Nat King Cole - The Very Thought of You<br/>曲終：納特·金·科爾－思念</ListItem>
