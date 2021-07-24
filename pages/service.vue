@@ -6,7 +6,7 @@
     <div class="section details">
       <h1 class="title">Service 追思儀式</h1>
       <p>The family will receive friends and loved ones on <em>Tuesday, July 27, 2021</em> from 10:00am to 12:00pm (US East Coast Time), at which time the funeral service will begin.<br/>當天家人會從十點開始在現場先接待親友。追思儀式將在台灣時間七月二十八日清晨零時開始。</p>
-      <p class="highlight">As attendance is restricted due to COVID-19, please contact the family in advance if you plan to attend the service in person.<br/>因為疫情原故，請想參加追思儀式的親友勿必事先聯繫家人以便安排座席。</p>
+      <p class="highlight">As attendance is restricted due to COVID-19, please contact the family in advance if you plan to attend the service in person.<br/>因為疫情原故，請想參加追思儀式的親友務必事先聯繫家人以便安排座席。</p>
       <h2>Visitation 探視 <span>10:00am</span></h2>
       <ul class="fa-ul">
         <ListItem><em>Hines-Rinaldi Funeral Home</em> <a href="https://goo.gl/maps/8hS39fCwqiGcxqRz8">11800 New Hampshire Avenue, Silver Spring, MD 20904</a></ListItem>
