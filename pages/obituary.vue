@@ -13,8 +13,7 @@
       <p/>
       <amp-video layout="responsive" controls autoplay rotate-to-fullscreen controlslist="nodownload" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive">
         <video width="100%" height="auto" autoplay="autoplay" playsinline webkit-playsinline controls controlslist="nodownload">
-          <source src="https://ddgfqeo643onm.cloudfront.net/cmi/7/1/6/3/10273617/m_181455.mp4" type="video/mp4"/>
-          <source src="https://d5nffgciuchtn.cloudfront.net/as/assets-mem-com/cmi/7/1/6/3/10273617/m_181455.mp4/-/chin-yu-lin-silver-spring-md-tribute.mp4" type="video/mp4"/>
+          <source src="https://github.com/TheCatLady/lovingmemory/releases/download/latest/m_181455.mp4" type="video/mp4"/>
         </video>
       </amp-video>
     </div>
