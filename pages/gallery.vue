@@ -20,6 +20,8 @@
           :style="{ backgroundImage: 'url(' + image + ')' }"
         ></div>
       </div>
+      <p/>
+      <a class="button" target="_blank" rel="noopener" href="https://www.dignitymemorial.com/obituaries/silver-spring-md/chin-yu-lin-10273617/add-memory">Leave a Memory or Condolence 分享回憶和悼念</a>
     </div>
   </div>
 </template>
