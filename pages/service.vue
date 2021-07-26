@@ -24,7 +24,7 @@
         <ListItem>Announcements<br/>發佈</ListItem>
         <ListItem>Recessional with Musical Postlude: Nat King Cole - The Very Thought of You<br/>曲終：納特·金·科爾－思念</ListItem>
       </ul>
-      <h2>Cremation 火化儀式 <span>2:00pm</span><span>台灣時間七月二十八日清晨兩點</span></h2>
+      <h2>Cremation 火化儀式 <span>2:30pm</span><span>台灣時間七月二十八日清晨兩點半</span></h2>
       <ul class="fa-ul">
         <ListItem><em>Patapsco Crematory</em> <a href="https://goo.gl/maps/HmDeRFsDQjTnv6qx9">244 8th Avenue NW, Glen Burnie, MD 21061</a></ListItem>
       </ul>
