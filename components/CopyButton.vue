@@ -11,11 +11,7 @@ export default {
   methods: {
     copyText() {
       const self = this
-      navigator.clipboard.writeText(self.text).then(function() {
-        alert(self.text + ' copied to clipboard')
-      }, function() {
-        alert('Copying text does not work in this browser')
-      })
+      navigator.clipboard.writeText(self.text)
     }
   }
 }
