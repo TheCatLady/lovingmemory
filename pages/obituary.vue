@@ -11,11 +11,9 @@
       <p>Her favorite pastimes included cooking, Sudoku, clipping coupons, and Taiwanese soap operas. But nothing brought her more joy than spending time with her family and loved ones.<br/>她喜歡的業餘活動包括烹飪、解數獨謎題、尋找日常生活用品的減價優惠券，還有台灣電視肥皂劇。但是沒有任何事可以取代她與家人相處的快樂時光。</p>
       <p>Chin-Yu leaves behind her husband, two daughters, son-in-law, brother, countless loved ones, and happy memories to be cherished forever.<br/>錦玉留下她的先生、女兒、女婿、弟弟、無數她關心喜愛的人及那些值得永遠珍惜的回憶。</p>
       <p/>
-      <amp-video layout="responsive" controls autoplay rotate-to-fullscreen controlslist="nodownload" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive">
-        <video width="100%" height="auto" autoplay="autoplay" playsinline webkit-playsinline controls controlslist="nodownload">
-          <source src="https://github.com/TheCatLady/lovingmemory/releases/download/latest/m_181455.mp4" type="video/mp4"/>
-        </video>
-      </amp-video>
+      <div class="yt-container">
+        <iframe src="https://www.youtube-nocookie.com/embed/5yErhYa7qEU?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-video"></iframe>
+      </div>
       <p/>
       <a class="button" target="_blank" rel="noopener" href="https://www.dignitymemorial.com/obituaries/silver-spring-md/chin-yu-lin-10273617/add-memory">Leave a Memory or Condolence 分享回憶和悼念</a>
     </div>
